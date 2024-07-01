@@ -6,7 +6,7 @@ Project Name: CODTECH-Internship-Task1
 
 Developer Information
 
-NAME      -  ANKITA SINGH
+NAME      -  ANKITA SINGH                           
 Company   -  CODTECH SOLUTIONS
 ID        -  CT6WD504
 Domain    -  WEB DEVELOMENT
