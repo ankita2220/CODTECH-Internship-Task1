@@ -1,6 +1,24 @@
-# TO-DO LIST WEB APPLICATION
+# Todo List Web Application Documentation
 
-## Project Overview
+## Table of Contents
+1. [Project Overview](#1-project-overview)
+   - [Developer Information](#developer-information)
+   - [Project Description](#project-description)
+   - [Features](#features)
+   - [Screenshots/Demo](#screenshotsdemo)
+2. [Technical Details](#2-technical-details)
+   - [Technologies Used](#technologies-used)
+   - [Code Structure](#code-structure)
+   - [Dependencies](#dependencies)
+3. [Usage](#3-usage)
+   - [Installation](#installation)
+   - [Usage Instructions](#usage-instructions)
+4. [Future Enhancements](#4-future-enhancements)
+5. [Contact Information](#5-contact-information)
+
+---
+
+## 1. Project Overview
 
 ### Developer Information
 - **Name:** Ankita Singh
@@ -10,15 +28,14 @@
 - **Duration:** June to July 2024
 - **Mentor:** Neela Santhosh Kumar
 
-## Project Description
-
-The Todo List App is a web-based application designed to help users manage their tasks effectively. It allows users to add tasks with due dates, mark tasks as completed, edit existing tasks, search for specific tasks, sort tasks alphabetically, and clear completed tasks. The app leverages HTML, CSS, and JavaScript to create a responsive and intuitive user interface.
+### Project Description
+The Todo List Web Application is designed to facilitate efficient task management for users across various platforms. It provides functionalities for adding, editing, marking tasks as complete, sorting tasks alphabetically, searching for specific tasks, and managing task deadlines.
 
 ### Features
 - **Task Management:** Add, edit, mark as complete, and delete tasks.
-- **Task Interactivity:** Click to mark tasks as complete; clear completed tasks.
-- **Sorting and Searching:** Alphabetical sorting and keyword-based search.
-- **Responsive Design:** Usable across various devices and screen sizes.
+- **Interactive Interface:** Click to mark tasks as complete and clear completed tasks.
+- **Sorting and Searching:** Alphabetical sorting and keyword-based search for tasks.
+- **Responsive Design:** Optimized for usability on desktops, tablets, and mobile devices.
 
 ## Screenshots/Demo
 
@@ -31,21 +48,41 @@ The Todo List App is a web-based application designed to help users manage their
 ### All Tasks View
 ![All Tasks View](https://github.com/ankita2220/CODTECH-Internship-Task1/assets/141556515/84696a67-f969-415a-941d-422ede19cd1b "All Tasks View")
 
-## Code Structure
+## 2. Technical Details
 
 ### Technologies Used
-- **HTML:** Structure and semantics.
-- **CSS:** Styling for layout, responsiveness.
-- **JavaScript:** Dynamic functionality, event handling.
-- **LocalStorage:** Data persistence within the browser.
+- **Frontend:** HTML, CSS, JavaScript
+- **Data Storage:** LocalStorage for client-side data persistence
 
-## Future Improvements
+### Code Structure
+The project is structured into distinct components for clarity and maintainability:
 
-- **User Authentication:** Implement accounts for personalized task management.
-- **Date and Time Handling:** Enhance due date management.
-- **Data Syncing:** Server-side database for synchronization.
+### Dependencies
+List any third-party libraries or frameworks used in the project, along with their purpose.
 
-## Contact
+---
 
-For inquiries, reach out to:
+## 3. Usage
+
+### Installation
+Provide instructions on how to clone and set up the project locally.
+
+### Usage Instructions
+Guide users on how to use the application effectively:
+- Adding, editing, completing, and deleting tasks.
+- Sorting tasks alphabetically and searching for specific tasks.
+
+
+## 4. Future Enhancements
+Outline potential future improvements to enhance the application's functionality and user experience:
+- **User Authentication:** Implement user accounts for personalized task management.
+- **Date and Time Handling:** Enhance task deadline management.
+- **Data Syncing:** Introduce server-side databases for real-time synchronization.
+
+---
+
+## 5. Contact Information
+Provide contact details for inquiries or support:
 - **Ankita Singh:** [ankita.singh7371@gmail.com](mailto:ankita.singh7371@gmail.com)
+
+
