@@ -14,7 +14,7 @@ Durations -  JUNE TO JULY 2024
 Mentor    -  Neela Santhosh Kumar 
 
 
-Project Description
+ Project Description
 
 The Todo List App is a web-based application designed to help users manage their tasks effectively. It allows users to add tasks with due dates, mark tasks as completed, edit existing tasks, search for specific tasks, sort tasks alphabetically, and clear completed tasks. The app leverages HTML, CSS, and JavaScript to create a responsive and intuitive user interface.
 
