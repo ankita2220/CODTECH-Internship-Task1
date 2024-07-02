@@ -61,11 +61,7 @@ Responsive Layout: Adjusts layout and functionality for optimal viewing and inte
 
 Screenshots/Demo
 
- ![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
-![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
-![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
-![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
-
+<img width="1440" alt="Screenshot 2024-07-02 at 7 35 05 PM" src="https://github.com/ankita2220/CODTECH-Internship-Task1/assets/141556515/845f1b2e-974c-423a-b40a-9e6d0cf213df">
 
 
 
