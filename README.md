@@ -9,7 +9,6 @@
 2. [Technical Details](#2-technical-details)
    - [Technologies Used](#technologies-used)
    - [Code Structure](#code-structure)
-   - [Dependencies](#dependencies)
 3. [Usage](#3-usage)
    - [Installation](#installation)
    - [Usage Instructions](#usage-instructions)
@@ -55,22 +54,35 @@ The Todo List Web Application is designed to facilitate efficient task managemen
 - **Data Storage:** LocalStorage for client-side data persistence
 
 ### Code Structure
-The project is structured into distinct components for clarity and maintainability:
 
-### Dependencies
-List any third-party libraries or frameworks used in the project, along with their purpose.
-
----
+- **index.html:** This file defines the main structure of the Todo List web application, including task lists and user interface elements.
+- **styles.css:** Responsible for styling the application, ensuring it is visually appealing and responsive across various devices.
+- **script.js:** Implements interactive features such as adding, editing, and deleting tasks, as well as handling user interactions and events.
+- **localStorage.js:** Manages data persistence locally within the user's browser, allowing tasks to be saved and retrieved across different sessions.
 
 ## 3. Usage
 
 ### Installation
-Provide instructions on how to clone and set up the project locally.
+To set up the Todo List Web Application locally, follow these steps:
+
+1. Clone the repository from GitHub:
+2. Navigate into the project directory:
+3. Open `index.html` in your web browser to launch the application.
 
 ### Usage Instructions
-Guide users on how to use the application effectively:
-- Adding, editing, completing, and deleting tasks.
-- Sorting tasks alphabetically and searching for specific tasks.
+The Todo List Web Application allows users to manage tasks effectively:
+
+- **Adding Tasks:** Click on the "ADD TASK " button to add a new task. Enter the task description and due date (if applicable) and press Enter to save.
+
+- **Editing Tasks:** Double-click on a task to edit its description or due date directly in place.
+
+- **Completing Tasks:** Click on the checkbox next to a task to mark it as completed. Completed tasks can be cleared using the "Clear Completed" button.
+
+- **Deleting Tasks:** Click on the trash icon next to a task to delete it from the list.
+
+- **Sorting Tasks:** Click on the "Sort A-Z" button to alphabetically sort tasks by their descriptions.
+
+- **Searching Tasks:** Use the search bar to enter keywords and filter tasks based on the entered text.
 
 
 ## 4. Future Enhancements
