@@ -14,12 +14,12 @@ Durations -  JUNE TO JULY 2024
 Mentor    -  Neela Santhosh Kumar 
 
 
- Project Description
+Project Description----
 
 The Todo List App is a web-based application designed to help users manage their tasks effectively. It allows users to add tasks with due dates, mark tasks as completed, edit existing tasks, search for specific tasks, sort tasks alphabetically, and clear completed tasks. The app leverages HTML, CSS, and JavaScript to create a responsive and intuitive user interface.
 
 
-Features
+Features-----
 
 Task Management: Users can add new tasks with due dates. Tasks are displayed in a list format with options to mark them as completed, edit their text, and delete tasks.
 
@@ -31,9 +31,7 @@ Responsive Design: The app is designed to be responsive, ensuring usability acro
 
 
 
- Functionality Overview
-
- 
+Functionality Overview------
 
 Add Task: Users input a task description and optionally set a due date. Clicking "Add Task" creates a new task in the list.
 
@@ -51,7 +49,7 @@ Drag and Drop: Implements basic drag-and-drop functionality, allowing users to r
 
 
 
-Design and User Interface
+Design and User Interface-----
 
 Color Scheme: Uses a gradient background and clean, modern colors to enhance visual appeal and usability.
 Typography: Employs the Poppins font for a clear and readable interface.
@@ -59,21 +57,38 @@ Icons: Utilizes FontAwesome icons for task completion status and various buttons
 Responsive Layout: Adjusts layout and functionality for optimal viewing and interaction on both desktop and mobile devices.
 
 
-Screenshots/Demo
+Screenshots/Demo------
 
 <img width="1440" alt="Screenshot 2024-07-02 at 7 35 05 PM" src="https://github.com/ankita2220/CODTECH-Internship-Task1/assets/141556515/845f1b2e-974c-423a-b40a-9e6d0cf213df">
 
 
+search-------
 
 
-Code Structure
+
+
+<img width="582" alt="Screenshot 2024-07-02 at 7 40 38 PM" src="https://github.com/ankita2220/CODTECH-Internship-Task1/assets/141556515/5ab42f90-a61e-47af-bd48-f3f666319feb">
+
+
+
+All the task-----
+
+
+
+
+
+<img width="1440" alt="Screenshot 2024-07-02 at 7 39 48 PM" src="https://github.com/ankita2220/CODTECH-Internship-Task1/assets/141556515/84696a67-f969-415a-941d-422ede19cd1b">
+
+
+
+
+Code Structure----
 
 HTML: Defines the structure of the application, including input fields, buttons, lists, and placeholders for dynamic content.
 CSS: Styles the HTML elements, ensuring a consistent and visually appealing layout.
 JavaScript: Implements all dynamic behavior, including event listeners for user interactions, data manipulation (add, edit, delete tasks), sorting, searching, and local storage management.
 
-
-Technologies Used
+Technologies Used----
 
 HTML: Provides the structure and semantics of the web application.
 CSS: Styles the user interface, including layout, colors, fonts, and responsiveness.
@@ -81,7 +96,7 @@ JavaScript: Enables dynamic functionality such as task addition, deletion, editi
 LocalStorage: Stores tasks locally within the browser to persist user data across sessions.
 
 
-Future Improvements
+Future Improvements----
 
 User Authentication: Implement user accounts and authentication for personalized task management.
 Date and Time Handling: Enhance date handling to support more complex due date management.
@@ -89,7 +104,7 @@ Data Syncing: Explore server-side databases for data persistence and synchroniza
 Contact
 
 
-For inquiries, you can reach out to:
+For inquiries, you can reach out to:----
 
 Ankita Singh:  ankita.singh7371@gmail.com 
 
