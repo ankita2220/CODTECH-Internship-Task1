@@ -2,7 +2,7 @@
 
 Project Overview
 
-Project Name: CODTECH-Internship-Task1
+Project Name:  TO-DO LIST WEB APPLICATION
 
 Developer Information
 
@@ -61,6 +61,12 @@ Responsive Layout: Adjusts layout and functionality for optimal viewing and inte
 
 Screenshots/Demo
 
+ ![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
+![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
+![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
+![Uploading Screenshot 2024-07-02 at 7.35.05 PM.png…]()
+
+
 
 
 
@@ -90,18 +96,4 @@ Contact
 For inquiries, you can reach out to:
 
 Ankita Singh:  ankita.singh7371@gmail.com 
-
-
-
-
-
-
-
-
-
-
-
-
-Additional Information
-
 
